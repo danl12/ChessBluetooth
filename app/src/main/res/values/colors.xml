@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lightSquareColor">#ffce9e</color>
+    <color name="darkSquareColor">#d18b47</color>
+</resources>

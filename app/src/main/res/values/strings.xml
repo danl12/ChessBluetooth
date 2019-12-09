@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Шахматы</string>
+    <string name="play_button_text">Играть</string>
+    <string name="settings_button_text">Настройки</string>
+    <string name="title_connecting">подключение…</string>
+    <string name="title_connected_to">подключен к %s</string>
+    <string name="title_not_connected">не подключен</string>
+    <string name="bounded_device_list">Сопряженные устройства</string>
+    <string name="title_activity_settings">Настройки</string>
+</resources>
